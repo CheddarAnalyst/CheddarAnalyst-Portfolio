@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CheddarAnalyst
 
-I have interest in software devlopment as well as Data Science and Machine learning.
+I have interest in software development as well as Data Science and Machine learning.
 Comfortable with Python,C,C++ Languages.
 Familiar with Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio.
 
